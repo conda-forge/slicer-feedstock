@@ -5,11 +5,9 @@ Home: https://github.com/interpretml/slicer
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/slicer-feedstock/blob/master/LICENSE.txt)
 
 Summary: A small package for big slicing.
-
-
 
 Current build status
 ====================
