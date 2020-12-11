@@ -1,5 +1,5 @@
 {% set name = "slicer" %}
-{% set version = "0.0.3" %}
+{% set version = "0.0.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/slicer-{{ version }}.tar.gz
-  sha256: c82500e0120e648dcd541f785e1c04a35fa9cd61baed5cf3f83e6b6b21667114
+  sha256: a0c868f0a9d453abf439418e8c18808dfbe8ed3ca8c76d661d1aa59764bad7c1
 
 build:
   number: 0
